@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Receipts</string>
+    <string name="home">Home</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="browse_receipts">Browse Receipts</string>
+    <string name="back_button">Back</string>
+</resources>
